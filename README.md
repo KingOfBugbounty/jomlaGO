@@ -19,7 +19,7 @@ The `joomla.xml` file is the manifest for Joomla components, modules, or plugins
 git clone https://github.com/KingOfBugbounty/jomlaGO/
 cd jomlaGO
 # Build the binary
-go build -o joml main.go
+go build -o joml joml.go
 ```
 
 ### 📦 Usage
